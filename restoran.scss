@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(249, 248, 248);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+@import "__navbar.scss";
+@import "__header.scss";
+@import "__blog0.scss";
+@import"__blog1.scss";
+@import"__blog2.scss";
+@import "__blog3.scss";
+@import "__blog4.scss";
+@import "__blog5.scss";
+@import "__blog6.scss";
+@import "__blog7.scss";
+@import "__blog8.scss";
+@import "__blog9.scss";

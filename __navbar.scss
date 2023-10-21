@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    border-bottom: solid 1px #D4D7E6;
+    
+
+    .navbar_content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    .navbar_menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .navbar_text {
+        margin-left: 15px;
+        font-family: 'Martel Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.5px;
+        color: #9093A6;
+    }
+}

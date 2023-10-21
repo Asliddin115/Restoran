@@ -1,0 +1,67 @@
+.blog2 {
+    margin-top: 72px;
+    background-color: #F2F4FA;
+    height: 297px;
+
+    .blog2_content {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .blog2_texts {}
+
+    .blog2_text1 {
+        margin-top: 80px;
+        width: 550px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 64px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.08em;
+        color: #3F4255
+    }
+
+    .blog2_text2 {
+        margin-top: 24px;
+        width: 424px;
+        font-family: 'Martel Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.5px;
+        color: #3F4255;
+    }
+
+    .blog2_btn {
+        margin-top: 113px;
+    }
+
+    .blog2_input {
+        font-family: 'Martel Sans';
+        background: #FFFFFF;
+        box-shadow: 0px 8px 40px rgba(0, 0, 0, 0.08);
+        border-radius: 6px;
+        width: 336px;
+        height: 72px;
+        padding: 25px;
+        border: none;
+        outline: none;
+    }
+
+    .input_btn {
+        width: 88px;
+        height: 72px;
+        background: #FFE145;
+        border-radius: 4px;
+        outline: none;
+        border: none;
+        color: #B79C10;
+        cursor: pointer;
+    }
+}

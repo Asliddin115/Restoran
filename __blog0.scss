@@ -1,0 +1,36 @@
+.blog0 {
+
+    .blog0_content {
+        margin-top: 1px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .blog0_text {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 64px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.08em;
+        color: #3F4255;
+    }
+
+    .blog0_btn {
+        background: #e5e8ef;
+        width: 118px;
+        height: 48px;
+        border: none;
+        border-radius: 4px;
+        outline: none;
+        font-family: 'Martel Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #9093A6;
+        cursor: pointer;
+        }
+}

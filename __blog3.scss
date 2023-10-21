@@ -1,0 +1,37 @@
+.blog3 {
+
+    .blog3_content {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .blog3_text {
+        margin-top: 72px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 36px;
+        line-height: 64px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.08em;
+        color: #3F4255;
+    }
+
+    .blog3_btn {
+        margin-top: 72px;
+        border: none;
+        outline: none;
+        background: #F2F4FA;
+        border-radius: 4px;
+        width: 118px;
+        height: 48px;
+        cursor: pointer;
+        font-family: 'Martel Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #9093A6;
+    }
+}
